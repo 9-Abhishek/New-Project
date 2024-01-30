@@ -4,13 +4,8 @@
 # Table of Contents :
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Credits](#credits)
-- [Badges](#badges)
 - [Contact Information](#contact-information)
-- [Acknowledgments](#acknowledgments)
 
 # Introduction :
 
@@ -84,10 +79,13 @@
     Implement regular backups to prevent data loss.
     Enable a recovery system to restore data in case of accidental deletions or system failures.
 
-# Getting Started
-
-# Dependencies
+# Dependencies :
    This project depends on the following libraries:
  * Java 8
  * MySQL
    
+# Contact-Information :
+   For any inquiries or assistance, feel free to reach out to us:
+- Project Maintainer : Abhishek Choudhary
+- Email : Abhishekchoudhary.it@gmail.com
+- LinkedIn : www.linkedin.com/in/abhishek-choudhary-09it
